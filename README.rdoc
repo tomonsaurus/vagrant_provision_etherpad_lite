@@ -1,0 +1,15 @@
+== README
+
+* vagrantでprovisionを使い、以下の環境を構築する。
+
+* centos6
+
+* eterpad-lite
+
+* mysql導入、サービス化はしていません。インストール完了後 http://192.168.33.10:9001　にアクセスしてください
+
+* インストール直後、etherpadが起動していますが、再度OSを起動させたい時は
+cd /home/vagrant/etherpad-lite/bin; run.sh を実行してください
+
+
+
