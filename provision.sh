@@ -38,9 +38,8 @@ sh bin/installDeps.sh
 echo "completed"
 
 
-echo "1. ssh login. 
-echo "2. cd /home/vagrant/etherpad-lite/bin; run.sh"
-
+echo "1. ssh login. "
+echo "2. cd /home/vagrant/etherpad-lite;bin/run.sh"
 echo "3. then access http://192.168.33.10:9001 on your web browser."
 
 
